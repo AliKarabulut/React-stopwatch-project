@@ -1,0 +1,7 @@
+.min {
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px rgba(0, 51, 193, 0.704);
+  letter-spacing: 2px;
+  word-spacing: -7px;
+  font-size: 50px;
+}
